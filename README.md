@@ -20,6 +20,9 @@ The current baseline supports:
 
 EXE command discovery and icon extraction are intentionally best effort. The technician remains responsible for reviewing commands, detection rules, targeting, and final application identity.
 
+<img width="1069" height="786" alt="image" src="https://github.com/user-attachments/assets/ef005040-e347-47c3-9c2a-9fa05b756391" />
+
+
 ## Requirements
 
 - Windows PowerShell 5.1
