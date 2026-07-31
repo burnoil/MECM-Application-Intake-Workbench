@@ -1,0 +1,27 @@
+# Runtime output
+Logs/
+Manifests/
+IconCache/
+
+# Installer content and release artifacts
+*.msi
+*.exe
+*.msix
+*.appx
+*.appxbundle
+*.zip
+*.7z
+*.sha256
+
+# Local configuration and test data
+config.local.json
+*.local.json
+TestApps/
+TestData/
+
+# PowerShell/editor artifacts
+*.ps1xml.user
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
