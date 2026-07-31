@@ -2,8 +2,6 @@
 
 A technician-focused PowerShell/WPF workbench for guarded MSI and EXE application intake into Microsoft Configuration Manager.
 
-![MECM Application Intake Workbench v0.25.4](docs/screenshots/v0.25.4-intake-and-icon-workflow.png)
-
 ## Current release: v0.25.4
 
 The current baseline supports:
@@ -64,8 +62,7 @@ A restrained, exportable packaging-advisory feature is planned rather than a lar
 
 ```text
 src/                Main PowerShell/WPF application
-docs/screenshots/   UI screenshots
-CHANGELOG.md         Release history
+CHANGELOG.md         Release history when added
 PROJECT-SCOPE.md     Supported and deferred scope
 ```
 
